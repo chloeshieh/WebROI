@@ -1,2 +1,3 @@
 # WebROI
-WebROI based on Canvas.js
+WebROI based on nodejs + Canvas.js
+for image-process projec using YOLO
